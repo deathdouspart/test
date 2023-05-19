@@ -40,10 +40,10 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://wallpapercave.com/wp/mZr0bZT.jpg);
   
   --dplus-accent-color-hue: #E4F7F5;
-  --dplus-accent-color-saturation: 60%;
+  --dplus-accent-color-saturation: 80%;
   --dplus-accent-color-lightness: 31%;
   
   --dplus-foreground-color-hue-base: #E3F2FA;
@@ -60,7 +60,7 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Marker Felt';
+  --dplus-font-ui: 'Zapfino';
   --dplus-font-body: 'Comic Sans MS';
   --dplus-font-header: 'Righteous';
 
