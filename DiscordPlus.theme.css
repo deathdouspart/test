@@ -40,18 +40,18 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://wallpapercave.com/wp/mZr0bZT.jpg);
+  --dplus-backdrop: url(https://wallpapercave.com/wp/Q61Hw4R.jpg);
   
-  --dplus-accent-color-hue: #E4F7F5;
+  --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 80%;
   --dplus-accent-color-lightness: 31%;
   
-  --dplus-foreground-color-hue-base: #E3F2FA;
+  --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
-  --dplus-background-color-hue: #BDCAE0;
+  --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
