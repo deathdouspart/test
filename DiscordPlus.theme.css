@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://media.tenor.com/yocWQnSMOLYAAAAC/sparkle-rainbow.gif);
+  --dplus-backdrop: url(https://i.pinimg.com/originals/be/5a/11/be5a11b56780bf2606179b60a595c79f.gif);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 332;
@@ -26,7 +26,7 @@
   --dplus-accent-color-lightness: 81%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 330;
+  --dplus-foreground-color-hue-base: 200;
   --dplus-foreground-color-hue-links: 247;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
