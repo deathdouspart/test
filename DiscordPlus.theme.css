@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://pbs.twimg.com/media/FCJr0QEWEAsr06J.jpg);
+  --dplus-backdrop: url(https://media.tenor.com/-sDXc6-dvukAAAAC/anime-background.gif);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 332;
@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://64.media.tumblr.com/f9e94cc901902ca6e31f8ceeef083a3f/tumblr_opdnw3ZFHF1vzc99zo1_500.gif);
+  --dplus-backdrop: url(https://media.tenor.com/53FLTkbWaGUAAAAC/blue-aesthetic.gif);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 80%;
@@ -60,7 +60,7 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'STIX Two Math';
+  --dplus-font-ui: 'Comic Sans MS';
   --dplus-font-body: 'Comic Sans MS';
   --dplus-font-header: 'Righteous';
 
