@@ -21,7 +21,7 @@
   --dplus-backdrop: url(https://pbs.twimg.com/media/FCJr0QEWEAsr06J.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 330;
+  --dplus-accent-color-hue: 332;
   --dplus-accent-color-saturation: 30%;
   --dplus-accent-color-lightness: 81%;
 
@@ -40,7 +40,7 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://wallpapercave.com/wp/Q61Hw4R.jpg);
+  --dplus-backdrop: url(https://64.media.tumblr.com/f9e94cc901902ca6e31f8ceeef083a3f/tumblr_opdnw3ZFHF1vzc99zo1_500.gif);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 80%;
@@ -60,7 +60,7 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Trattatello';
+  --dplus-font-ui: 'STIX Two Math';
   --dplus-font-body: 'Comic Sans MS';
   --dplus-font-header: 'Righteous';
 
